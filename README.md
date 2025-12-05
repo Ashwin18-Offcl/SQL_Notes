@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Ashwin18-Offcl/SQL_Notes/blob/master/SQL%20images/SQL%20With%20MySQL.png" alt="SQL With MySQL Thumbnail" width="720">
-</p>
+
+
 
 <h1 align="center">🗄️ SQL Notes – Learn SQL With MySQL</h1>
 
