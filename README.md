@@ -1,19 +1,18 @@
-
-
+<p align="center">
+  <img src="https://github.com/Ashwin18-Offcl/SQL_Notes/blob/master/SQL.png" alt="SQL With MySQL Thumbnail" width="720">
+</p>
 
 <h1 align="center">🗄️ SQL Notes – Learn SQL With MySQL</h1>
 
 <p align="center">
-  Learn SQL step-by-step with practical queries, analytics use-cases & database design skills.
+  Learn SQL step-by-step with practical queries, database design rules & analytics use-cases for real jobs.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Database-MySQL-005C84?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-SQL-blue" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-success" />
-  <img src="https://img.shields.io/badge/Made%20By-Ashwin%20Panbude-orange" />
-</p>
-
+  <img src="https://img.shields.io/badge/Status-Learning%20Journey🟢-success" />
+  <img src="ht
 ---
 
 ## 📌 About This Repository
@@ -202,14 +201,3 @@ This repo also covers:
 
 ```
 
----
-
-If you want, I can also create:
-✅ A **cover banner** matching your SQL theme  
-✅ Downloadable PDF Notes formatted beautifully  
-✅ Separate folders with `.sql` files for execution  
-✅ More thumbnails for topics (Joins / Functions / Subqueries etc.)
-
-Would you like me to:
-📌 Upload this README directly into your repo with a commit message?
-```
